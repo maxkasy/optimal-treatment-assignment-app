@@ -1,4 +1,4 @@
-# optimal-treatment-assignment-app
+# Shiny app for optimal treatment assignment in experiments
 
 Run this app using Shiny and R-Studio.
 
